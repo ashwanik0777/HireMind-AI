@@ -6,11 +6,11 @@ HireMind AI is an AI-powered resume and portfolio analysis platform designed to 
 
 * Frontend: Next.js
 * Styling: Tailwind CSS
-* Backend: Node.js + Express.js
+* Backend: Node.js + Next.js
 * Database: PostgreSQL
 * AI API: Gemini API
 * Authentication: JWT
-* Deployment: Vercel + Render
+* Deployment: Vercel
 
 ## Setup
 
